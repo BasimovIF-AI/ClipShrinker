@@ -1,0 +1,11 @@
+/target
+*.exe
+*.xz
+*.zip
+ffmpeg.exe
+ffmpeg.xz
+*.log
+*.mbtree
+.system_generated/
+/bin
+/archives

@@ -1,4 +1,4 @@
-/target
+﻿/target
 *.exe
 *.xz
 *.zip
@@ -9,3 +9,6 @@ ffmpeg.xz
 .system_generated/
 /bin
 /archives
+
+/releases
+/tools
